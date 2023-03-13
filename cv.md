@@ -24,6 +24,21 @@ I had experience in testing a real commercial product, in the team development o
 
 ## Code Examples
 
+_The function takes in a string of one or more words, and returns the same string, but with all five or more letter words reverse_
+
+```
+function spinWords(string){
+  const inputWords = string.split(" ");
+  for (let i = 0; i < inputWords.length; i++) {
+    if (inputWords[i].length >= 5) {
+      inputWords[i] = inputWords[i].split("").reverse().join("");
+    }
+  }
+  return(inputWords.join(" "));
+}
+
+```
+
 ## Work experience
 
 ## Education
