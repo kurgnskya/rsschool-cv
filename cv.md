@@ -47,7 +47,6 @@ function spinWords(string){
 ## Education
 
 - Volgograd State University - Computer Science and Computer Engineering, Bachelor's degree
-- 1T
 
 ## Languages
 
