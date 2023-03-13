@@ -24,7 +24,7 @@ I had experience in testing a real commercial product, in the team development o
 
 ## Code Examples
 
-_The function takes in a string of one or more words, and returns the same string, but with all five or more letter words reverse_
+_The function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed_
 
 ```
 function spinWords(string){
@@ -41,6 +41,15 @@ function spinWords(string){
 
 ## Work experience
 
+- Equio LLC (intership as a QA-engineer)
+- Volgograd State University (Admissions officer)
+
 ## Education
 
+- Volgograd State University - Computer Science and Computer Engineering, Bachelor's degree
+
 ## Languages
+
+Russian - native
+English - B2
+Spanish - A1
