@@ -1,14 +1,10 @@
-# CV
-
 ## Ekaterina Kurganskaya
-
----
 
 Frontend Developer
 
 ## Contacts
 
-tg: [@kurgnskya] (https://t.me/kurgnskya)
+tg: [@kurgnskya](https://t.me/kurgnskya)
 
 ## About Me
 
