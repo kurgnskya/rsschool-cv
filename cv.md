@@ -51,6 +51,6 @@ function spinWords(string){
 
 ## Languages
 
-*Russian - native
-*English - B2
-\*Spanish - A1
+- Russian: native
+- English: B2
+- Spanish: A1
